@@ -44,13 +44,19 @@ header > p > a:hover{
     text-decoration: underline;
 }
 
-.poesia{
+p{
     font-family: var(--fonte-padrao);
     font-size: 1.5em;
     border-radius: 10px;
     margin: 5px 0px;
     padding: 30px 5px;
 }
+
+.img1{
+    background: black url('imagens/background001.jpg') right center no-repeat fixed;
+    background-size: cover;
+}
+
 
 footer{
     background-color: black;
